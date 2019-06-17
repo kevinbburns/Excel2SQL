@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExcelToSql": {
+      "commandName": "Project",
+      "commandLineArgs": "/I \"c:\\\\users\\kburns\\nml.xlsx\" /O \"c:\\\\users\\kburns\\main.sql\" /H /K"
+    }
+  }
+}
